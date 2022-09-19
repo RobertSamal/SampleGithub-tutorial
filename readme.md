@@ -2,3 +2,7 @@
 
 I am learning how to go about Github. Am following a YouTube Tutorial on how to work with git and github
 Am finding this quite intresting.
+
+## Am creating this on my local machine
+ I am learning commands
+ 
